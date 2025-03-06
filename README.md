@@ -1,4 +1,4 @@
-RSS2Email is a way to Take an RSS feed read it and send an email for the items in the feed.
+RSS2Email is a way to take an RSS feed read it and send an email for the items in the feed.
 
 
 Runs on .Net8.0 https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime
