@@ -204,7 +204,7 @@ namespace GmailSender
                     }
                     else
                     {
-                        Console.WriteLine("RSS check complete. No new items to email or no emails were successfully sent.");
+                        Console.WriteLine("RSS check complete. No new items to send.");
                     }
                 }
             }
